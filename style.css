@@ -1,0 +1,42 @@
+body, footer {
+    font: Roboto;
+}
+
+.navigation-bar {
+    background-color: #1F2937;
+}
+
+.header-link, .frist-part#text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.first-part#main {
+    background-color: #1F2937;
+}
+.first-part#header {
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.second-part {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.third-part {
+    background-color: #E5E7EB;
+}
+
+.forth-part {
+    font-size: 36px;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+footer {
+    background-color: #1F2937;
+}
